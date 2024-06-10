@@ -1,3 +1,4 @@
+package flyweightpattern;
 public class Textformat implements Text {
     private String font;
     private int size;
